@@ -1,4 +1,4 @@
-[![MasterHead](https://www.computersciencedegreehub.com/wp-content/uploads/2021/03/Brief-History-of-Programming-Languages.jpg)]
+![MasterHead](https://www.computersciencedegreehub.com/wp-content/uploads/2021/03/Brief-History-of-Programming-Languages.jpg)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A passionate software developer and problem solver</h3>
 
