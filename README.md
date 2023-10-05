@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash9721&label=Profile%20views&color=0e75b6&style=flat" alt="akash9721" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
-- 🌱 I’m currently learning **Java,Spring,Spring boot,React**
+- 🌱 I’m currently learning **Microservices in spring boot,React**
 
 - 👨‍💻 All of my projects are available at [https://akash9721.github.io/AkashPortfolio/](https://akash9721.github.io/AkashPortfolio/)
 
